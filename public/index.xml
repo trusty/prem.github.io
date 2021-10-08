@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prem Blogs here</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Prem Blogs here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Oct 2021 21:30:51 +0530</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elixir Links</title>
+      <link>http://example.org/posts/elixir-links/</link>
+      <pubDate>Fri, 08 Oct 2021 21:30:51 +0530</pubDate>
+      
+      <guid>http://example.org/posts/elixir-links/</guid>
+      
+        <description>&lt;p&gt;Hello World&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hex.pm/&#34;&gt;Hex - Public packages&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://hex.pm/&#34;&gt;Library Documentations&lt;/a&gt;\&lt;/p&gt;
+&lt;h2 id=&#34;libraries&#34;&gt;Libraries&lt;/h2&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
